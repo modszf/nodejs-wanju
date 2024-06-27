@@ -6,10 +6,10 @@
 # export ARGO_DOMAIN='xxxxx'
 
 #设置哪吒参数(NEZHA_TLS='1'开启tls,设置其他关闭tls)
-export NEZHA_SERVER='xxxx'
-export NEZHA_KEY='xxx'
-export NEZHA_PORT='443'
-export NEZHA_TLS='1'
+#export NEZHA_SERVER='xxxx'
+#export NEZHA_KEY='xxx'
+#export NEZHA_PORT='443'
+#export NEZHA_TLS='1'
 
 #设置app参数（默认x-ra-y参数，如果你更该了下载地址，需要修改UUID和VPATH）
 export UUID='fd80f56e-93f3-4c85-b2a8-c77216c509a7'
